@@ -99,7 +99,7 @@ while True:
     cv2.waitKey(1)
 
 
-
+print("Task complited")
 
 
 # faceLoc= fr.face_locations(imgDuy)[0]
