@@ -112,7 +112,7 @@ while True:
 # cv2.rectangle(imgDuyTest, (faceLocTest[3],faceLocTest[0]), (faceLocTest[1],faceLocTest[2]), (255,0,255),2)
 
 
-
+# Do Cong Duy commit
 
 # result = fr.compare_faces([encodeDuy], encodeDuyTest) 
 # faceDis = fr.face_distance([encodeDuy], encodeDuyTest)
